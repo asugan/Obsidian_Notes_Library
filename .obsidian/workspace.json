@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2117b443ba15b1f4",
+        "id": "175ada5ebb2a66a0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7f1f93ac4daa1d6",
+            "id": "dde72838dd60ef07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Cemal Yıldırım/Matematiksel Düşünme/Cemal Yıldırım - Matematiksel Düşünme.pdf",
+                "page": 21,
+                "left": -9,
+                "top": 569,
+                "zoom": 1.8348269468479603
+              },
+              "icon": "lucide-file-text",
+              "title": "Cemal Yıldırım - Matematiksel Düşünme"
             }
           }
         ]
@@ -56,8 +62,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ef9e043c8dad11f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cemal Yıldırım/Matematiksel Düşünme/All-Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All-Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -87,11 +108,9 @@
           {
             "id": "32fd02a14e3d6254",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -175,22 +194,42 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "068b2193c46f61c0",
+  "active": "ef9e043c8dad11f1",
   "lastOpenFiles": [
+    "Cemal Yıldırım/Matematiksel Düşünme/Cemal Yıldırım - Matematiksel Düşünme.pdf",
+    "Cemal Yıldırım/Matematiksel Düşünme/All-Notes.md",
+    "Carl Gustav Jung/Psikoloji ve Din/Din ve İnanç.md",
+    "Carl Gustav Jung/Psikoloji ve Din/Jung - Psikoloji ve Din.pdf",
+    "Carl Gustav Jung/Psikoloji ve Din/Bilinçdışı.md",
+    "Carl Gustav Jung/Psikoloji ve Din/Nevroz ve Terapi.md",
+    "Carl Gustav Jung/Psikoloji ve Din/Sembolizm.md",
+    "Carl Gustav Jung/Psikoloji ve Din/Psikoloji ve Felsefe.md",
+    "Carl Gustav Jung/Psikoloji ve Din/Nietzsche.md",
+    "Carl Gustav Jung/Psikoloji ve Din/All-Notes.md",
+    "Carl Gustav Jung/Psikoloji ve Din",
+    "Carl Gustav Jung",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Sembolizm.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Psikoloji ve Felsefe.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Psikoloji ve Din.pdf",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Nietzsche.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Nevroz ve Terapi.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Din ve İnanç.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/Bilinçdışı.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din/All-Notes.md",
+    "Carl Justav Jung/Jung - Psikoloji ve Din",
+    "Carl Justav Jung",
+    "Jung/Jung - Psikoloji ve Din/Sembolizm.md",
+    "Jung/Jung - Psikoloji ve Din/Psikoloji ve Felsefe.md",
+    "Jung/Jung - Psikoloji ve Din/Psikoloji ve Din.pdf",
+    "Jung/Jung - Psikoloji ve Din/Nietzsche.md",
+    "Jung/Jung - Psikoloji ve Din/Nevroz ve Terapi.md",
+    "Jung/Jung - Psikoloji ve Din/Din ve İnanç.md",
+    "Jung/Jung - Psikoloji ve Din/Bilinçdışı.md",
+    "Jung/Jung - Psikoloji ve Din/All-Notes.md",
+    "Jung/Jung - Psikoloji ve Din",
+    "Jung",
     "Jung - Psikoloji ve Din/All-Notes.md",
     "Jung - Psikoloji ve Din/Din ve İnanç.md",
-    "Jung - Psikoloji ve Din/Bilinçdışı.md",
-    "Jung - Psikoloji ve Din/Notes.md",
-    "Jung - Psikoloji ve Din/Nietzsche.md",
-    "Jung - Psikoloji ve Din/Nevroz ve Terapi.md",
-    "Jung - Psikoloji ve Din/Sembolizm.md",
-    "Jung - Psikoloji ve Din/Psikoloji ve Felsefe.md",
-    "Jung - Psikoloji ve Din/Psikoloji ve Din.pdf",
-    "Jung - Psikoloji ve Din",
-    "Jung - Psikoloji ve Din 1.epub",
-    "Jung - Psikoloji ve Din.epub",
-    "2025-07-26.md",
-    "Psikoloji ve Din -- Carl Gustav Jung -- 1_ Aufl, İstanbul, 1998 -- Okyanus Yayınları -- 9789757200444 -- 58c1fa84ad63e0a92fcc3a9c499fbc69 -- Anna’s Archive 1.pdf",
-    "Welcome.md"
+    "Jung - Psikoloji ve Din/Bilinçdışı.md"
   ]
 }
