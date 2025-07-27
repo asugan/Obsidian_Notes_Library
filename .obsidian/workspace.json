@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "37c0774c13f41151",
+    "type": "split",
+    "children": [
+      {
+        "id": "11713c8d3850a296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c73761c34ba41c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Jung - Psikoloji ve Din/Book.pdf",
+                "page": 93,
+                "left": -8,
+                "top": 30,
+                "zoom": 1.6778523489932888
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Book"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "680e3f6e11927041",
+    "type": "split",
+    "children": [
+      {
+        "id": "24774a2f22ead524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a666f224f706b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jung - Psikoloji ve Din/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "0ddc16df0a043128",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa32a424cebf5119",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451.5
+  },
+  "right": {
+    "id": "7aff5c19f40c759b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa29cd1a9a1fbe51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068b2193c46f61c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32fd02a14e3d6254",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1304cc9408834e2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "84088b8094772551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "edc19c1ed33c6050",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82a7402921cf11b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "0c73761c34ba41c1",
+  "lastOpenFiles": [
+    "Jung - Psikoloji ve Din/Notes.md",
+    "Jung - Psikoloji ve Din/Book.pdf",
+    "Jung - Psikoloji ve Din",
+    "Jung - Psikoloji ve Din 1.epub",
+    "Jung - Psikoloji ve Din.epub",
+    "2025-07-26.md",
+    "Psikoloji ve Din -- Carl Gustav Jung -- 1_ Aufl, İstanbul, 1998 -- Okyanus Yayınları -- 9789757200444 -- 58c1fa84ad63e0a92fcc3a9c499fbc69 -- Anna’s Archive 1.pdf",
+    "Welcome.md"
+  ]
+}
