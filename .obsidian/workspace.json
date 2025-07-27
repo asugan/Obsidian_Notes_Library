@@ -4,25 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11713c8d3850a296",
+        "id": "2117b443ba15b1f4",
         "type": "tabs",
         "children": [
           {
-            "id": "0c73761c34ba41c1",
+            "id": "a7f1f93ac4daa1d6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Jung - Psikoloji ve Din/Book.pdf",
-                "page": 93,
-                "left": -8,
-                "top": 30,
-                "zoom": 1.6778523489932888
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Book"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,22 +30,6 @@
         "id": "24774a2f22ead524",
         "type": "tabs",
         "children": [
-          {
-            "id": "77a666f224f706b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jung - Psikoloji ve Din/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
           {
             "id": "0ddc16df0a043128",
             "type": "leaf",
@@ -199,10 +175,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0c73761c34ba41c1",
+  "active": "068b2193c46f61c0",
   "lastOpenFiles": [
+    "Jung - Psikoloji ve Din/All-Notes.md",
+    "Jung - Psikoloji ve Din/Din ve İnanç.md",
+    "Jung - Psikoloji ve Din/Bilinçdışı.md",
     "Jung - Psikoloji ve Din/Notes.md",
-    "Jung - Psikoloji ve Din/Book.pdf",
+    "Jung - Psikoloji ve Din/Nietzsche.md",
+    "Jung - Psikoloji ve Din/Nevroz ve Terapi.md",
+    "Jung - Psikoloji ve Din/Sembolizm.md",
+    "Jung - Psikoloji ve Din/Psikoloji ve Felsefe.md",
+    "Jung - Psikoloji ve Din/Psikoloji ve Din.pdf",
     "Jung - Psikoloji ve Din",
     "Jung - Psikoloji ve Din 1.epub",
     "Jung - Psikoloji ve Din.epub",

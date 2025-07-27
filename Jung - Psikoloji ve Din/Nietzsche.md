@@ -1,0 +1,7 @@
+> [!PDF|] [[Psikoloji ve Din.pdf#page=92&selection=38,0,78,7|Psikoloji ve Din, p.92]]
+>
+> > Nietzsche eski yazıtları kırar ken çok bilinçli ve sorumlu davranmıştı, ancak ikinci bir şahıs olarak, bir tür öteki ben, (alter ego) olarak yeniden canlandır dığı ve Zerdüşt Böyle Buyurdu adlı büyük trajedisinde ken disiyle sık sık özdeşleştirdiği Zerdüşt’le garip şekilde kendini destekleme ihtiyacını duymuştu. Nietzsche ateist değildi, ama tanrısı ölmüştü; Sonuçta Nietzsche İlciye bölündü ve diğer beni, “Zerdüşt”veya bazen de “Dionisos” diye adlandırmak zorunluğunu duydu. Ölümcül hastalığı sırasında, mektup larına “Zagreus”, yani Trakyalılarm kollan olmayan Dionisos’u, adıyla imzalıyordu. Zerdüşt’ün trajedisi şudur : tanrısı öldüğü için, Nietzsche kendisi tanrı olmuştu; ve bunun oluş nedeni de onun ateist olmamasıydı. Olumsuz bir inanca razı olamayacak derecede olumlu bir yapıya sahipti. Böyle birinin, tanrının ölmüş olduğunu söylemesi tehlikelidir. Zira, ego, kişiliğin bütünlüğü olan Öz ile birleşerek “şişer”(inflated).
+
+> [!PDF|] [[Psikoloji ve Din.pdf#page=93&selection=61,0,73,17|Psikoloji ve Din, p.93]]
+>
+> > Nietzsche kadar dindar ve duyarlı kişilikler çok fazla ol madığı için, insanlığın geri kalan kısmı kendini mutlu say malı. Eğer sıradan kişiler tanrı fikrini kaybederlerse bir şey olmaz - en azından hemen ve kişisel bazda. Fakat, sosyal açıdan bakıldığında, kitleler salgın halinde akıl hastalıkları geçirmeye başlar. Şimdilerde bu salgınlardan oldukça çok sayıda görüyoruz.
