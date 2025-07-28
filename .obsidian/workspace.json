@@ -10,20 +10,41 @@
           {
             "id": "dde72838dd60ef07",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Cemal Yıldırım/Matematiksel Düşünme/Cemal Yıldırım - Matematiksel Düşünme.pdf",
                 "page": 29,
                 "left": -7,
-                "top": 550,
+                "top": 599,
                 "zoom": 1.8348269468479603
               },
+              "pinned": true,
               "icon": "lucide-file-text",
               "title": "Cemal Yıldırım - Matematiksel Düşünme"
             }
+          },
+          {
+            "id": "b1dc9bc91afd8b83",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Gilles Deleuze/Nietzsche/Gilles Deleuze - Nietzsche.pdf",
+                "page": 51,
+                "left": -17,
+                "top": 365,
+                "zoom": 2.6
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Gilles Deleuze - Nietzsche"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,15 +85,17 @@
             }
           },
           {
-            "id": "ef9e043c8dad11f1",
+            "id": "3a0d38529140ac92",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cemal Yıldırım/Matematiksel Düşünme/All-Notes.md",
+                "file": "Gilles Deleuze/Nietzsche/All-Notes.md",
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "All-Notes"
             }
@@ -194,12 +217,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ef9e043c8dad11f1",
+  "active": "b1dc9bc91afd8b83",
   "lastOpenFiles": [
+    "Gilles Deleuze/Nietzsche/All-Notes.md",
+    "Gilles Deleuze/Nietzsche/Gilles Deleuze - Nietzsche.pdf",
+    "Gilles Deleuze/Nietzsche",
     "Cemal Yıldırım/Matematiksel Düşünme/Cemal Yıldırım - Matematiksel Düşünme.pdf",
+    "Gilles Deleuze",
+    "Carl Gustav Jung/Psikoloji ve Din/Jung - Psikoloji ve Din.pdf",
     "Cemal Yıldırım/Matematiksel Düşünme/All-Notes.md",
     "Carl Gustav Jung/Psikoloji ve Din/Din ve İnanç.md",
-    "Carl Gustav Jung/Psikoloji ve Din/Jung - Psikoloji ve Din.pdf",
     "Carl Gustav Jung/Psikoloji ve Din/Bilinçdışı.md",
     "Carl Gustav Jung/Psikoloji ve Din/Nevroz ve Terapi.md",
     "Carl Gustav Jung/Psikoloji ve Din/Sembolizm.md",
@@ -220,16 +247,12 @@
     "Carl Justav Jung",
     "Jung/Jung - Psikoloji ve Din/Sembolizm.md",
     "Jung/Jung - Psikoloji ve Din/Psikoloji ve Felsefe.md",
-    "Jung/Jung - Psikoloji ve Din/Psikoloji ve Din.pdf",
     "Jung/Jung - Psikoloji ve Din/Nietzsche.md",
     "Jung/Jung - Psikoloji ve Din/Nevroz ve Terapi.md",
     "Jung/Jung - Psikoloji ve Din/Din ve İnanç.md",
     "Jung/Jung - Psikoloji ve Din/Bilinçdışı.md",
     "Jung/Jung - Psikoloji ve Din/All-Notes.md",
-    "Jung/Jung - Psikoloji ve Din",
-    "Jung",
     "Jung - Psikoloji ve Din/All-Notes.md",
-    "Jung - Psikoloji ve Din/Din ve İnanç.md",
-    "Jung - Psikoloji ve Din/Bilinçdışı.md"
+    "Jung - Psikoloji ve Din/Din ve İnanç.md"
   ]
 }
