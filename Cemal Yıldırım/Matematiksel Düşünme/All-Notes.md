@@ -40,4 +40,29 @@
 > [!PDF|] [[Cemal Yıldırım - Matematiksel Düşünme.pdf#page=21&selection=8,43,14,56|Cemal Yıldırım - Matematiksel Düşünme, p.21]]
 > > Matematiğin günlük kullanımları öte sinde, giderek daha soyut, kendi içinde entelektüel yönden ilginç bir nitelik kazan ması önemli bir olaydır. Bu gelişmeyi geçim derdinde olmayan, boş zamanını oku maya, öğrenmeye vermiş kimi yönetici ve din adamlarının ilgilerine borçluyuz. İn san zekasının yaşam ihtiyaçlarının ötesinde kuramsal konulara yönelmesiyle, pratik aritmetik işlemlerinden daha soyut cebirsel dönüştürmelere, arazi ölçme ve sınır belirleme işlevlerinden geometrik düşünmeye geçilmiştir.
 > 
+>
+
+> [!PDF|] [[Cemal Yıldırım - Matematiksel Düşünme.pdf#page=21&selection=30,0,36,11|Cemal Yıldırım - Matematiksel Düşünme, p.21]]
+> > Antik Yunan öncesi matematiğin belirgin özelliği, sınama-yanılma yöntemine bağlı, empirik bilgi düzeyinde kalan bir çalışma olmasıdır. Başka türlü olması da kolayca beklenemezdi; çünkü, daha önce de belirttiğimiz üzere, hem Mısır'da hem de Mezopotamya' da matematik, yaşamın pratik ihtiyaçlarından kaynaklanan bir çalışmaydı.
+> 
+>
+
+> [!PDF|] [[Cemal Yıldırım - Matematiksel Düşünme.pdf#page=22&selection=150,0,163,6|Cemal Yıldırım - Matematiksel Düşünme, p.22]]
+> > Kısaca demek gerekirse, Yunan öncesi dönemde matematik daha çok pratik yaşam ihtiyaçlarına dönük, sınama-yanılma yöntemine bağlı, empirik düzeyde bir uğraştı. Bugüne değin okunan hiçbir belgede ispat yöntemine ilişkin bir belirtiye rastlanmamıştır. Verilen örnekler genel nitelikte dedüktif düşünme yöntemini de ğil, özel nitelikte sayısal çözümlere ilişkin kazanılmış bilgi ve becerileri sergilemek tedir.
+> 
+>
+
+> [!PDF|] [[Cemal Yıldırım - Matematiksel Düşünme.pdf#page=23&selection=25,0,29,10|Cemal Yıldırım - Matematiksel Düşünme, p.23]]
+> > Ne var ki, Doğu'ya olan borcun ölçüsü ne olursa olsun, Yunanlıların aldıkla rıyla yetinmedikleri, matematiğe yeni bir kimlik kazandırdıkları da bilinmektedir. Onların elinde matematik doğruluğu deneyime dayanan empirik önermeler yığını olmaktan çıkarak, doğruluğu mantıksal yöntemle ispatlanan bir sistem niteliği ka zanmıştır.
+> 
+>
+
+> [!PDF|] [[Cemal Yıldırım - Matematiksel Düşünme.pdf#page=24&selection=113,66,150,63|Cemal Yıldırım - Matematiksel Düşünme, p.24]]
+> > Dedüktif çıkarı mın aritmetik ya da cebirde değil, geometride kullanılmış olması, matematiğin XIX. yüzyıla gelinceye dek geçirdiği gelişimin niteliğini belirlemesi bakımından önemli bir olaydır. Şöyle ki, aksiyomatik düşüncenin geometriye özgü olduğu gibi, gelenekleşmiş yanlış bir anlayıştan kurtulmak kolay olmamıştır.
+> 
+>
+
+> [!PDF|] [[Cemal Yıldırım - Matematiksel Düşünme.pdf#page=26&selection=13,4,14,28|Cemal Yıldırım - Matematiksel Düşünme, p.26]]
+> > Mantıksal ispat öyle görünüyor ki, düşünce evriminde ancak Antik Yunan döne minde erişilen bir aşamadır.
+> 
 > 
